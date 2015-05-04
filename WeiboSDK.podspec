@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "WeiboSDK"
-  s.version      = "1.0.1"
+  s.version      = "1.1.1"
   s.summary      = "新浪微博SDK之iOS版本"
 
   s.description  = <<-DESC
@@ -48,7 +48,7 @@ DESC
   #  profile URL.
   #
 
-  s.author             = { "Jake Lin" => "jakelinau@gmail.com" }
+  s.author             = { "saiday" => "feocms@gmail.com" }
   # Or just: s.author    = "Jake Lin"
   # s.authors            = { "Jake Lin" => "jakelinau@gmail.com" }
   # s.social_media_url   = "http://twitter.com/Jake_Lin"
@@ -72,7 +72,7 @@ DESC
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/JakeLin/WeiboSDK.git", :tag => "1.0.0" }
+  s.source       = { :git => "https://github.com/saiday/WeiboSDK.git", :tag => "1.1.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
